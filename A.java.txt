@@ -1,8 +1,3 @@
-{}
-P{
-P{
-PFf
-dfd
-fs
-fdds
-dsefrsfds
+class A{
+Prajwal
+}
