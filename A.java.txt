@@ -1,6 +1,7 @@
 class A{
 void getLost(){
 }
- void goAway(){
+ void goAway(int x, int y){
+ 
  }
 }
