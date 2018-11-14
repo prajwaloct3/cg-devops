@@ -6,7 +6,11 @@ Everything up-to-date
 
 nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
 $ git add A.java.txt
+
 removed some code
+
+ADDDED SOME CODE
+
 nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
 $ git commit -m 'Third Change'
 [master 6b17e2e] Third Change
