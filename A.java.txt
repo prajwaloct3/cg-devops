@@ -1,13 +1,3 @@
-<<<<<<< HEAD
 //feature 2
-//dont want feature-s
-=======
-{}
-P{
-P{
-PFf
-dfd
-fs
-fdds
-dsefrsfds
->>>>>>> parent of 6b17e2e... Third Change
+
+
