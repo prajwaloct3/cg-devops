@@ -1,25 +1,2 @@
-Everything up-to-date
-
-nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
-$ git push origin master
-Everything up-to-date
-
-nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
-$ git add A.java.txt
-ADDDED SOME CODE
-nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
-$ git commit -m 'Third Change'
-[master 6b17e2e] Third Change
- 1 file changed, 3 insertions(+), 8 deletions(-)
-
-nprajwal@BLRTRNGFT050022 MINGW64 ~/Desktop/cg-devops (master)
-$ git push origin master
-Enumerating objects: 5, done.
-Counting objects: 100% (5/5), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 302 bytes | 151.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/prajwaloct3/cg-devops.git
-   da0dd40..6b17e2e  master -> master
-
+//feature 2
+//dont want feature-s
